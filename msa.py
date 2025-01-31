@@ -39,3 +39,8 @@ sequence3 = "ATCGGTTA"
 sequence4 = "ATGCTAGCTAGATCGAT"
 
 multiple_sequence_alignment(seq1, seq2, sequence3, sequence4)
+
+
+
+for i in range(10):
+    print(i)
